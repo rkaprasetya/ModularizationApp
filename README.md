@@ -2,8 +2,8 @@
 Application to practice dynamic modulaziration
 
 important points:
-1. Library Modules = These are the modules whose code is accessible by the main App Module and it is implemented as any other 3rd party library.
-    Dynamic Feature Modules = These modules are more like code on demand. These get downloaded only when it is required by the user.
+1. - Library Modules = These are the modules whose code is accessible by the main App Module and it is implemented as any other 3rd party library.
+   - Dynamic Feature Modules = These modules are more like code on demand. These get downloaded only when it is required by the user.
     It delivers the code via dynamic delivery. 
     These feature modules depend on the app but the app doesn't depend on the feature modules.
     
