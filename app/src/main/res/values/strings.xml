@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyModularization</string>
+    <string name="title_newsfeature">news_feature</string>
+    <string name="title_productfeature">productfeature</string>
+</resources>
